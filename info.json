@@ -11,10 +11,10 @@
     "latest_part_start_datetime": "2020-12-29T19:32:02.781245",
     "latest_part_start_timestamp": 1609270322.781245,
     "live_update": true,
-    "name": "template",
+    "name": "Zelo72s_rpi.pihole.blocklists.multi",
     "own_management": false,
-    "ping": [],
-    "raw_link": null,
+    "ping": ["Zerlo72s"],
+    "raw_link": "https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt",
     "start_datetime": "2020-12-29T19:32:02.781245",
     "start_timestamp": 1609270322.781245
 }
