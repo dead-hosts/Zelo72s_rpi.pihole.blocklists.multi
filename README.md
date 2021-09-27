@@ -1,9 +1,43 @@
-# About [repository-name]
+# About [Zelo72s_rpi.pihole.blocklists.multi]
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Workflow](https://github.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/actions/workflows/main.yml)
 
 ```
-[description]
+# ------------------------------------------------
+# Zelo*s "Multi" Blocklist - for a better internet
+# ------------------------------------------------
+#
+# An all in one blocklist that can be used as a
+# stand alone blocklist. For every region.
+#
+# Blocks:
+#    ads, tracking, metrics, telemetry, phishing,
+#    malware, coins and other "crap".
+#
+# This blocklist was designed to avoid false 
+# positive domains as much as possible and
+# not to block any needed features.
+# Maximum blocking with full functionality.
+#
+# It was compiled from numerous sources, 
+# my own blacklist and various whitelists.
+# To keep the list as small as possible, 
+# dead domains are removed regularly.
+#
+# It is updated daily and is available in
+# the following formats:
+#   domains, hosts and adblock.
+#   See: https://github.com/Zelo72
+#
+# Created for purely personal, private use.
+# Keep the internet clean!
+#
+# ------------------------------------------------
+# Support/Report false positive:
+#   GitHub:  https://github.com/Zelo72
+#   Discord: Zelo72#7513
+#   Mail:    zelo72@dismail.de
+# ------------------------------------------------
 ```
 
 --------------------------------------------------------------------------------
