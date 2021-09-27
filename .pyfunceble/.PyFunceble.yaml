@@ -9,10 +9,11 @@ cli_testing:
         active: true
         branch: master
         command: hash dead_hosts_launcher && dead_hosts_launcher --save
-        commit_message: '[Autosave][Dead-Hosts::template]'
+        commit_message: '[Autosave][Dead-Hosts::Zelo72s_rpi.pihole.blocklists.multi]'
         distribution_branch: master
         end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
-        end_commit_message: '[Final/Result][Dead-Hosts::template]'
+        end_commit_message: '[Final/Result][Dead-Hosts::Zelo72s_rpi.pihole.blocklists.multi]
+            | cc @Zerlo72s | '
         max_exec_minutes: 20
     cidr_expand: false
     complements: false
